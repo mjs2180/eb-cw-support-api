@@ -16,13 +16,12 @@ In this example alarms are generated from Amazon CloudWatch, these can be create
 
 The message format which the application uses to raise the case is based on that produced by Amazon CloudWatch alarms, however there are only three key data elements that need to be present in order to log a case, as follows:
 
-<code>
-{
-	"AlarmName":"My Alarm",
-	"AlarmDescription":"More detailed description",
-	"StateChangeTime":"Alarm Time"
-}
-</code>
+
+<code>{</code>
+<code>	"AlarmName":"My Alarm",</code>
+<code>	"AlarmDescription":"More detailed description",</code>
+<code>	"StateChangeTime":"Alarm Time"</code>
+<code>}</code>
 
 This means that you can integrate any 3rd party monitoring system to make use of this interface, as long as it has the ability to write a message in the above format to Amazon SQS. The message is parsed by the application and a support case raised with the alarm name as the subject, priority is set to low in the current code but can be modified.
 
