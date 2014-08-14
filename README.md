@@ -31,7 +31,7 @@ The Amazon DynamoDB table must consist of the following attributes:
 <pre><code>(hash)      : string    # Anything you want but the value must match the alarm name
 priority    : string	# low, normal, high, urgent
 action      : string	# JSON formated text to allow for custom message to be sent to support to help start troubleshooting
-ccemail     : stringset # (optional) email address to cc when a case is raised</code></pre>
+ccemail     : string    # (optional) email address to cc when a case is raised</code></pre>
 
 In order to implement the application there are a few steps that are required as follows:
 
