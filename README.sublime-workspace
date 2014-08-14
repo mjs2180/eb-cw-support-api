@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"communication",
+				"communication_body"
+			],
+			[
+				"Cloud",
+				"CloudFrontURL"
+			],
+			[
+				"QTY",
+				"QTY"
+			],
+			[
+				"thai",
+				"thaiair"
+			],
+			[
+				"web",
+				"webtrends"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mstatham/Dropbox/Projects/C/default.vcl",
+		"/Users/mstatham/Dropbox/Projects/python/CloudWatch Support Logger/eb-cw-support-worker/README.md",
+		"/Users/mstatham/Dropbox/Projects/python/CloudWatch Support Logger/eb-cw-support-worker/application.py",
+		"/Users/mstatham/Dropbox/Projects/python/CloudWatch Support Logger/eb-cw-support-worker/default_config.py",
+		"/Users/mstatham/Desktop/DNS records",
+		"/Users/mstatham/Dropbox/Projects/python/eb-py-flask-signup-worker-v1.0.0/eb-cw-support-worker/alarm-format.json",
+		"/Users/mstatham/Dropbox/Projects/python/eb-py-flask-signup-worker-v1.0.0/eb-cw-support-worker/eb-cw-support-worker-iam-policy.json",
+		"/Users/mstatham/Dropbox/Projects/python/eb-py-flask-signup-worker-v1.0.0/test.py",
+		"/Users/mstatham/Dropbox/Projects/python/eb-py-flask-signup-worker-v1.0.0/eb-cw-support-worker/iam_policy.json",
+		"/Users/mstatham/Downloads/CustomTest.js",
+		"/Users/mstatham/Downloads/eb-py-flask-signup-worker-v1.0.0/iam_policy.json",
+		"/Users/mstatham/Downloads/server.xml",
+		"/Users/mstatham/Dropbox/Projects/node.js/Ghost/config.example.js",
+		"/Users/mstatham/Dropbox/Projects/node.js/Ghost/README.md",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/SharePoint 2013 CFN/Template_1_Infrastructure_with_AD-DRAFTv2.json",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/SharePoint 2013 CFN/Template_2_SQL_Server-v2-DRAFTv2.json",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/SharePoint 2013 CFN/Template_3_APP_Server-v2-DRAFTv2.json",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/SharePoint 2013 CFN/Template_4_WFE_Server_v2-DRAFTv2.json",
+		"/Users/mstatham/Downloads/vpn-config-sged.txt",
+		"/Users/mstatham/Dropbox/Projects/C/vcl_recv_default.vcl",
+		"/Users/mstatham/Downloads/client_secret_699149616526.apps.googleusercontent.com.json",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/Elastic Transcoder Media Monitor/ets2.py",
+		"/Users/mstatham/Dropbox/Projects/C/token.c",
+		"/Users/mstatham/Dropbox/Work/Prospects/Media Corp/cna-v11.template",
+		"/Users/mstatham/Dropbox/Work/Prospects/Media Corp/cna-v12.template",
+		"/Users/mstatham/Dropbox/Work/Prospects/Media Corp/Version 1.1.template",
+		"/Users/mstatham/Downloads/OpsWorksVPCELB.template",
+		"/Users/mstatham/Downloads/www.thaiairways.com/en/index.page.html",
+		"/Users/mstatham/Downloads/minzip.sh",
+		"/Users/mstatham/Dropbox/Work/PR Certification/Reading/aws.amazon.com/css/screen_2.css",
+		"/private/var/folders/w7/_7vb6zg95l9fbbnn0wdnlf21hx8zdc/T/e12b33e7-1545-49bc-8ccc-508a32a0bf6c/cdn.demo4aws.com/error-pages/error.html",
+		"/Users/mstatham/Downloads/index.php",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/index.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/contact.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/video.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/about.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/blog.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/Demo Site/blog_post.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/index.html",
+		"/Users/mstatham/Dropbox/Work/Marketing & PR/CloudFront Demo/index.html.orig",
+		"/Users/mstatham/Desktop/awsrecords/named.bind",
+		"/Users/mstatham/Desktop/awsrecords/named.inter",
+		"/Users/mstatham/Desktop/awsrecords/named.conf",
+		"/Users/mstatham/Downloads/error.html",
+		"/Users/mstatham/Downloads/AWS_Management_Console_Federation_Sample/Src/bootstrap/AWSConsoleFederationProxy SecretKey Encryptor.ps1",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Code Demos/ipv6-for-vpc/ipv6-tunnel-stack.template",
+		"/Users/mstatham/Dropbox/Projects/CloudFormation/reverseproxy2.json",
+		"/Users/mstatham/Dropbox/Projects/CloudFormation/reverseproxy.template",
+		"/Users/mstatham/Dropbox/AWS_ASEAN_SA/Customers/Friendster/ARCHITECTURE.md",
+		"/Users/mstatham/Downloads/E28KWB5Q345SWK.2013-11-26-14.1GeweDaw",
+		"/Users/mstatham/Dropbox/Projects/php/Tiny-Tiny-RSS-1.10/config.php",
+		"/Users/mstatham/Dropbox/Projects/php/Tiny-Tiny-RSS-1.10/install/index.php",
+		"/Users/mstatham/Downloads/www.stomp.com.sg/NEWrotator.html",
+		"/Users/mstatham/Downloads/www.stomp.com.sg/index.html",
+		"/Users/mstatham/Downloads/www.stomp.com.sg/7day.html",
+		"/Users/mstatham/Downloads/www.stomp.com.sg/NEWnavbar.html",
+		"/Users/mstatham/Desktop/SCB Vpn gateway config.txt",
+		"/Users/mstatham/Downloads/www.stomp.com.sg/NEWmasthead.html",
+		"/Users/mstatham/Downloads/cf-invalidate/cf-invalidate.sh",
+		"/Users/mstatham/Downloads/stomp.html",
+		"/Users/mstatham/Dropbox/Work/aws.pl",
+		"/Users/mstatham/Dropbox/Projects/javascript/upload.html",
+		"/Users/mstatham/Dropbox/Projects/javascript/index.html",
+		"/Users/mstatham/Desktop/ASEAN.svg",
+		"/Users/mstatham/Desktop/key.svg",
+		"/Users/mstatham/Downloads/Isometric_Icons (1).svg",
+		"/Users/mstatham/Downloads/Isometric_Icons.svg",
+		"/Users/mstatham/Dropbox/MNL attendees",
+		"/Users/mstatham/Downloads/cfcurl.pl",
+		"/Users/mstatham/Desktop/whatsnew.xml",
+		"/Users/mstatham/Downloads/RefArch_VpcWebHosting_v7_complete.svg",
+		"/Users/mstatham/Desktop/ICA - Overstayer Reporting Form.pdf",
+		"/Users/mstatham/Dropbox/Work/Customers/Thai Airways/CloudFront/neustar-perfmon-script.js",
+		"/Users/mstatham/Dropbox/Work/Customers/Thai Airways/CloudFront/neustat-perfmon-script.js",
+		"/Users/mstatham/Dropbox/Work/zTraining/101 201 Kingsley/AWS/AWSSDKforPHP/_samples/html-dynamodb_sessions_login.php",
+		"/Users/mstatham/Downloads/Thai Airways/www.thaiairways.com/POST2",
+		"/Users/mstatham/Downloads/E3UO6RY70RLJNF.2013-06-28-11.IW6V3pWU",
+		"/Users/mstatham/Downloads/Thai Airways/web-properties-ip.txt",
+		"/Users/mstatham/Downloads/Thai Airways/web properties.txt",
+		"/Users/mstatham/Downloads/www.thaiairways.com/POST",
+		"/Users/mstatham/Dropbox/Work/Customers/Evolve/s3store.py",
+		"/Users/mstatham/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mstatham/Dropbox/Work/awsuse.rb"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"alarm",
+			"ccemail",
+			"message",
+			"Message",
+			"alarm",
+			"ex:",
+			"ap-southeast-1",
+			"json",
+			"BODY",
+			",",
+			"logging",
+			"Calibri",
+			";",
+			"network",
+			"this.url",
+			"AMI",
+			"EC2",
+			"2013",
+			"2008",
+			"CSV",
+			"myrouter(config)#",
+			"myrouter(config)#n",
+			"be.resp",
+			"be_resp",
+			"be.resp",
+			"Loggin",
+			"ELB",
+			"clickandgo.js",
+			"bootstrap-dropdown.js",
+			"download",
+			"http://docs.aws.amazon.com/AmazonCloudFront",
+			"templatemo",
+			"templatemo.com",
+			"templateto",
+			"www.templatemo",
+			"poster",
+			"internal",
+			"smtp",
+			"amc",
+			"central",
+			"udep",
+			"gems",
+			"Jenkins",
+			"\"\n",
+			"WebServer",
+			"WebsiteURL",
+			"CloudFront_URL",
+			"WebServer",
+			"WaitHandleJenkinsInstance",
+			"App",
+			"App_URL",
+			"KeyName",
+			"Join",
+			"\",\\n\",",
+			"$",
+			"^",
+			"VolumeSize",
+			"nginx",
+			"function",
+			"DB_HOST",
+			"rotator",
+			"NEWrorator",
+			"navbar",
+			"include",
+			"navbar",
+			"#include",
+			"jquery",
+			"<img src=\"",
+			"img",
+			"SignatureVersion",
+			"use",
+			"Authorization",
+			"v4",
+			"main",
+			"L2L_VEN_AWS",
+			"filter",
+			"AWS_REM_NET_1",
+			"access-list",
+			"keep",
+			"201",
+			"isakmp",
+			"<outside_access_in>",
+			"access_list",
+			"<outside_access_in>",
+			"<outside_interface>",
+			"<amzn_vpn_map>",
+			".123",
+			"authen",
+			"crypto isakmp ",
+			"upload",
+			"$curl_args_file",
+			"904",
+			"Business Class",
+			"\"",
+			"msg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",\\n",
+			"Arial",
+			"\\n",
+			"",
+			"http://aws.amazon.com/documentation/cloudfront/",
+			"www.demo4aws",
+			"",
+			"\\\\n\",",
+			"\\n\",",
+			"                  \"",
+			"\n        ",
+			"    worker_connections  1024;\\n\",\n}\\n\",\n\nhttp {\\n\",\n    include       /etc/nginx/mime.types;\\n\",\n    default_type  application/octet-stream;\\n\",\n\n    log_format  main  '$remote_addr - $remote_user [$time_local] \"$request\" '\n                      '$status $body_bytes_sent \"$http_referer\" '\n                      '\"$http_user_agent\" \"$http_x_forwarded_for\"';\n\n    access_log  /var/log/nginx/access.log  main;\n    sendfile        on;\n    keepalive_timeout  65;\n    gzip  on;\n\n    server {\n        listen       8080;\n        server_name  <SERVERNAME>;\n        server_tokens off;\n\n           access_log  off;\n           error_log off;\n\n          location / {\n            proxy_pass http://<CLOUDFRONT_URL>;\n            proxy_pass_header Server;\n            proxy_set_header        Host            $host;\n            proxy_redirect          off;\n            proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;\n            proxy_connect_timeout 90;\n            proxy_send_timeout 90;\n            proxy_read_timeout 90;\n            client_max_body_size 10m;\n            client_body_buffer_size 128k;\n            proxy_buffer_size 4k;\n            proxy_buffers 4 32k;\n            proxy_busy_buffers_size 64k;\n          }\n}\n}",
+			"20",
+			"ikev1",
+			"outside",
+			"CRYPTO_MAP_OUTSIDE",
+			"CRYPTO_MAP_OUTSIDE\n",
+			"\n",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/SCB Vpn gateway config.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
