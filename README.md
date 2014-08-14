@@ -28,9 +28,10 @@ In order to make the system more extensible, configuration information regarding
 
 The Amazon DynamoDB table must consist of the following attributes:
 
-<pre><code>(hash)		: string	# Anything you want but the value must match the alarm name
-priority	: string	# low, normal, high, urgent
-action		: string	# JSON formated text to allow for custom message to be sent to support to help start troubleshooting</code></pre>
+<pre><code>
+(hash)      : string	# Anything you want but the value must match the alarm name
+priority    : string	# low, normal, high, urgent
+action      : string	# JSON formated text to allow for custom message to be sent to support to help start troubleshooting</code></pre>
 
 In order to implement the application there are a few steps that are required as follows:
 
