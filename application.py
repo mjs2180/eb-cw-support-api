@@ -90,7 +90,7 @@ def serviceme():
                             except KeyError:
                                 ccemail = None
                             else:
-                                ccemail = [configitem['ccemail']]
+                                ccemail = configitem['ccemail']
 
                         # Get a list of open cases
                         cases = support.describe_cases()
