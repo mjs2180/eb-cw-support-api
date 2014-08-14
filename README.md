@@ -16,11 +16,11 @@ In this example alarms are generated from Amazon CloudWatch, these can be create
 
 The message format which the application uses to raise the case is based on that produced by Amazon CloudWatch alarms, however there are only three key data elements that need to be present in order to log a case, as follows:
 
-{
+<code>{
 	"AlarmName":"My Alarm",
 	"AlarmDescription":"More detailed description",
 	"StateChangeTime":"Alarm Time"
-}
+}</code>
 
 This means that you can integrate any 3rd party monitoring system to make use of this interface, as long as it has the ability to write a message in the above format to Amazon SQS. The message is parsed by the application and a support case raised with the alarm name as the subject, priority is set to low in the current code but can be modified.
 
@@ -28,9 +28,11 @@ In order to make the system more extensible, configuration information regarding
 
 The Amazon DynamoDB table must consist of the following attributes:
 
+<code>
 (hash)	: string	# Anything you want but the value must match the alarm name
 priority	: string	# low, normal, high, urgent
 action	: string	# JSON formated text to allow for custom message to be sent to support to help start troubleshooting
+</code>
 
 In order to implement the application there are a few steps that are required as follows:
 
