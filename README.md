@@ -50,5 +50,6 @@ Configure the following settings:</li>
 <li>Subscribe your Amazon SQS queue to the SNS topic (http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqssubscribe.html)</li>
 <li>Setup up your Amazon CloudWatch alarms and send notifications via the SNS topic (http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/ConsoleAlarms.html)</li>
 <li>Sit back relax and wait for your cases to be automatically raised</li>
+</ol>
 
-One big final caveat I want you to think about though is making sure that you only raise alarms when you are really sure there is an issue you can't deal with through automation, which can also be driven by CloudWatch alarms; make sure that you're really dealing with an AWS issue before you raise cases, otherwise there isn't much AWS support will be able to help you with.
+One final big caveat I want you to think about though is making sure that you only raise alarms when you are really sure there is an issue you can't deal with through automation, which can also be driven by CloudWatch alarms; make sure that you're really dealing with an AWS issue before you raise cases, otherwise there isn't much AWS support will be able to help you with.
