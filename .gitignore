@@ -58,5 +58,6 @@ docs/_build/
 
 # Mac Stuff:
 .DS*
+README.sublime*
 
 >>>>>>> 0932f93d65d092d148ad2f09a0d3931e5d3ab5b0
